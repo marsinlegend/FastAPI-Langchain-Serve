@@ -327,7 +327,7 @@ Here, we are using the `workspace` to store the incoming text in a file via the 
 
 </details>
 
-## 🚀 Bring your own FastAPI app
+## 🚀 Bring your own FastAPI App
 
 If you already have a FastAPI app with pre-defined endpoints, you can use `lc-serve` to deploy it on Jina AI Cloud. 
 
